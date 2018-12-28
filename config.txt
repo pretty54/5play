@@ -1,0 +1,6 @@
+token=NTI3MzYyNzk1Mjk0MDMxODgy.DwS0XA.DFfZlqtJIyGYbwN1D-AN3HbEoXk
+owner=433198762706599936
+prefix=r
+game= HAWADET SERVER
+stayinchannel=true
+songinstatus=true 
